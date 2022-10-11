@@ -1,0 +1,16 @@
+{
+    "206": {
+        "n_remaining_blocks": 2,
+        "N_articles": 20,
+        "text length": 115,
+        "elapsed": 2008.287045955658,
+        "blocks": [
+            "PASADENA, Calif. , May 10. Page, 4, brought back to life after he had stopped breathing 10 minutes, is holding his own, although own, although critical, hospital attendants said today. The youngster, who suffered probable skull fractures when struck by a car Saturday, was given artificial respiration by doctors who refused to concede the child was dead. The treatment plus injection of a heart stimulant started him breathing again. Physicians explained the boy stopped breathing because of extreme shock and fat embolism escaping from bone marrow. They added it has been unsafe to move him for x-rays. His parents, Mr. and Mrs. Francis Mack Page of Mojave, Calif. , have been at his bedside constantly.",
+            "-Larry K. Page, four, brought back to life after he had stopped breathing 10 minutes, is holding his own, although critical, hospital attendants said today. The youngster, who suffered probable skull fractures when struck by a car Saturday, was given artificial respiration by doctors who refused to concede the child was dead. The treatment plus injection of a heart stimulant started him breathing again. Physicians explained the boy stopped breathing because of extreme shock and fat embolism escaping from bone marrow. They added it has been unsafe to move him for X-rays. His parents, Mr. and Mrs. Francis Mack Page of Mojave, Calif. , have been at his bedside constantly."
+        ],
+        "block_coverages": [
+            0.7421410365335599,
+            0.5420560747663551
+        ]
+    }
+}
